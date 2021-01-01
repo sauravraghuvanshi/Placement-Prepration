@@ -21,5 +21,13 @@ In this repository I am going to share my 100 Days of my code content.
 
 ### Theory
 * Void main() vs main()
-* 
+* **C++ Data Types:-**
+  1. Primary Data Types:-
+     * Integer 
+     * Character
+     * Boolean
+     * Floating Point
+     * Double Floating Point
+     * void
+     * Wide Character
 
