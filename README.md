@@ -17,7 +17,7 @@ In this repository I am going to share my 100 Days of my code content.
 ### Program
 * 2.1 My first C++ program
 
-### Day-3:-
+## Day-3:-
 
 ### Theory
 * Void main() vs main()
@@ -43,4 +43,13 @@ In this repository I am going to share my 100 Days of my code content.
       * Union
       * Enum
       * Typedef
+
+* **Data Type Modifiers:-**
+  * Signed
+  * unsigned
+  * short
+  * long
+
+### Program
+3.1 C++ program to sizes of data types
 
