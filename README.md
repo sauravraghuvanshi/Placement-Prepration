@@ -31,3 +31,9 @@ In this repository I am going to share my 100 Days of my code content.
      * void
      * Wide Character
 
+   2. Derived Data Types:-
+      * Function
+      * Array
+      * Pointer
+      * References
+
