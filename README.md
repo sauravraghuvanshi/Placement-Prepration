@@ -71,3 +71,5 @@ In this repository I am going to share my 100 Days of my code content.
   * Buffered-stanadard error stream(clog) 
 
 ### Program:-
+* 4.1 Standard output stream (cout).cpp
+* 

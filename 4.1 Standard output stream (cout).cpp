@@ -4,6 +4,6 @@ using namespace std;
 int main()
 {
     char sample[]= "Hello, ";
-    cout<< sample << "coder";
+    cout<< sample << "Coder";
     return 0;
 }
