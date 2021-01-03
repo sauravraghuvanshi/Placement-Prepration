@@ -70,5 +70,4 @@ In this repository I am going to share my 100 Days of my code content.
   * Un-buffered standard error stream(cerr)
   * Buffered-stanadard error stream(clog) 
 
-
 ### Program:-
