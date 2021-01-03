@@ -57,5 +57,18 @@ In this repository I am going to share my 100 Days of my code content.
 ## Day-4:-
 
 ### Theory:-
+* **Basic Input/Output in C++:-**
+  * Input Stream
+  * Output Stream
+* **Header Files available in C++ for Input/Output:-**
+  * iostream(Standart input/Output  Stream)
+  * iomanip(Input/Output Manipulators)
+  * fstream(for file stream)
+* **Object defined in the header file iostream like the cin and cout:-**
+  * Standard Output stream(cout)
+  * Standard Input stream(cin)
+  * Un-buffered standard error stream(cerr)
+  * Buffered-stanadard error stream(clog) 
+
 
 ### Program:-
