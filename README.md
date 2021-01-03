@@ -72,4 +72,6 @@ In this repository I am going to share my 100 Days of my code content.
 
 ### Program:-
 * 4.1 Standard output stream (cout).cpp
-* 
+* 4.2 standard input stream (cin).cpp
+* 4.3 Un-buffered standard error stream (cerr).cpp
+* 4.4 buffered standard error stream (clog).cpp
