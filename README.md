@@ -1,5 +1,5 @@
 # 100-Day-of-Code
-In this repository I am going to share my 100 Days of my code content.
+In this repository, I am going to share my 100 days of my code track. It will help start coding from basics and then moving towards more complex problem using c++.
 
 # C++ Basics:-
 
