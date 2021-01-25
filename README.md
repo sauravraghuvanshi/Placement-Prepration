@@ -75,3 +75,9 @@ In this repository, I am going to share my 100 days of my code track. It will he
 * 4.2 standard input stream (cin).cpp
 * 4.3 Un-buffered standard error stream (cerr).cpp
 * 4.4 buffered standard error stream (clog).cpp
+
+## Day-5:-
+
+### Theory:-
+* What is preprocessor
+* 
