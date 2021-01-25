@@ -80,4 +80,11 @@ In this repository, I am going to share my 100 days of my code track. It will he
 
 ### Theory:-
 * What is preprocessor
-* 
+* Working of Preprocessor
+* What is preprocessor directive
+* **There are 4 types of preprocessor directive:-**
+  * Macros
+  * File Inclusion
+  * Conditional Compilation
+  * other directives
+* Studied about Macros
