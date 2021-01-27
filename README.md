@@ -98,6 +98,17 @@ In this repository, I am going to share my 100 days of my code track. It will he
 ### Theory:-
 * Operators in C++
 * Loops
+* Learned about what is Decision making in c++
+* Different type of dicision making
+  * if
+  * if-else
+  * Nested if
+  * if-else-if
+  * Jump statements
+    * break
+    * continue
+    * goto
+    * return
 
 ### Program:-
 * 6.1 For Loop.cpp
