@@ -91,12 +91,13 @@ In this repository, I am going to share my 100 days of my code track. It will he
 
 ### Program:-
 * 5.1 Macros.cpp
-* 5.2_Macro_with_Argument
+* 5.2_Macro_with_Argument.cpp
 
 ## Day-6:-
 
 ### Theory:-
 * Operators in C++
-* 
+* Loops
 
 ### Program:-
+* 6.1 For Loop.cpp
