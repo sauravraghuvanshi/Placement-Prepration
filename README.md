@@ -123,3 +123,4 @@ In this repository, I am going to share my 100 days of my code track. It will he
 ### Labs:-
 * 7.1 C++ program to illustrate if-else statement.cpp
 * 7.2 C++ program to illustrate nested-if statement.cpp
+* 7.3 C++ program CPP program to illustrate Linear Search.cpp 
