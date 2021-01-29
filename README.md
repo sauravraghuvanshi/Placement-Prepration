@@ -115,4 +115,10 @@ In this repository, I am going to share my 100 days of my code track. It will he
 * 6.2 While Loop.cpp
 * 6.3 Do While Loop.cpp
 * 6.4 C program to illustrate If statement.cpp
-* 
+
+## Day-7:-
+
+### Theory:-
+
+### Labs:-
+* 7.1 C++ program to illustrate if-else statement.cpp
