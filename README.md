@@ -129,6 +129,6 @@ In this repository, I am going to share my 100 days of my code track. It will he
 ## Day-8:-
 
 ### Theory:-
-
-
+* Switch statement in C++
 ### Labs:-
+* C++ program to demonstrate syntax of switch Statement.cpp
