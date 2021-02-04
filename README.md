@@ -130,5 +130,7 @@ In this repository, I am going to share my 100 days of my code track. It will he
 
 ### Theory:-
 * Switch statement in C++
+* Functions in C++
+* Why do we need functions
 ### Labs:-
-* C++ program to demonstrate syntax of switch Statement.cpp
+* 8.1 C++ program to demonstrate syntax of switch Statement.cpp
