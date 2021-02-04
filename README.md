@@ -119,8 +119,16 @@ In this repository, I am going to share my 100 days of my code track. It will he
 ## Day-7:-
 
 ### Theory:-
+* Decision Making in C / C++ (if , if..else, Nested if, if-else-if )
 
 ### Labs:-
 * 7.1 C++ program to illustrate if-else statement.cpp
 * 7.2 C++ program to illustrate nested-if statement.cpp
 * 7.3 C++ program CPP program to illustrate Linear Search.cpp 
+
+## Day-8:-
+
+### Theory:-
+
+
+### Labs:-
