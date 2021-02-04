@@ -1,25 +1,26 @@
-// C++ program to illustrate nested-if statement 
-#include <iostream> 
-using namespace std; 
+#include<iostream>
+using namespace std;
 
-int main() 
-{ 
-	int i = 10; 
+void findelement(int arr[], int size, int key)
+{
+    // Loop to traverse array and search for key
+    for(int i=0; i<size; i++)
+    {
+        if(arr[i]==key)
+        {
+            cout<< "Element was found at position: "<< (i+1);
+            break;
+        }
+    }
+}
 
-	if (i == 10) 
-	{ 
-		// First if statement 
-		if (i < 15) 
-		cout<<"i is smaller than 15\n"; 
+int main()
+{
+    int arr[]= {1, 2, 3, 4, 5};
+    int n=5;
+    int key = 3;
+    findelement(arr, n, key);
+    return 0;
 
-		// Nested - if statement 
-		// Will only be executed if statement above 
-		// is true 
-		if (i < 12) 
-			cout<<"i is smaller than 12 too\n"; 
-		else
-			cout<<"i is greater than 15"; 
-	} 
 
-	return 0; 
-} 
+}
