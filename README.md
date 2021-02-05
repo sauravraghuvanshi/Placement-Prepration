@@ -137,3 +137,13 @@ In this repository, I am going to share my 100 days of my code track. It will he
 * 8.1 C++ program to demonstrate syntax of switch Statement.cpp
 * 8.2 C++ program to demonstrate call by value.cpp
 * 8.3 c++ program to demonstrate call by reference.cpp
+
+## Day-9:-
+
+### Theory:-
+* Array in c++
+* Why do we need array
+* Array decleration in c++
+* Advantage of array in c++
+* Disadvantage of array in c++
+### code:-
