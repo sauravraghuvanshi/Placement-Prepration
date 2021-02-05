@@ -132,6 +132,7 @@ In this repository, I am going to share my 100 days of my code track. It will he
 * Switch statement in C++
 * Functions in C++
 * Why do we need functions
+* call by value and call by reference
 ### Labs:-
 * 8.1 C++ program to demonstrate syntax of switch Statement.cpp
 * 8.2 C++ program to demonstrate call by value.cpp
