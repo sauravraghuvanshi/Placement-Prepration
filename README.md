@@ -146,5 +146,11 @@ In this repository, I am going to share my 100 days of my code track. It will he
 * Array decleration in c++
 * Advantage of array in c++
 * Disadvantage of array in c++
-### code:-
+* What is vector in c++
+### Code:-
 * 9.1 Array Intro.cpp
+
+## Day-10:-
+
+### Theory:-
+### Code:-
