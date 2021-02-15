@@ -161,4 +161,8 @@ In this repository, I am going to share my 100 days of my code track. It will he
 ## Day-11:-
 
 ### Theory:-
+* Pointers in C++
+* How to access variable and its address.
+* Pointers in array
 ### Code:-
+* 
