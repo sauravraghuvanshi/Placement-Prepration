@@ -166,3 +166,9 @@ In this repository, I am going to share my 100 days of my code track. It will he
 * Pointers in array
 ### Code:-
 * 11.1 C++ program to access value and address of a variable using pointer.cpp
+
+## Day-12:-
+
+### Theory:-
+
+### Code:-
