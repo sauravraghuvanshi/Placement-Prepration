@@ -1,19 +1,17 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
-int operate (int a, int b)
+
+void swap(int &first, int &second)
 {
-     return (a * b);
-}
-float operate (float a, float b)
-{ 
-     return (a / b);
+    int temp =first;
+    first=second;
+    second=temp;
 }
 
 int main()
 {
-   int x = 5, y = 2;
-   float n = 5.0, m = 2.0;
-   cout << operate(x, y) <<"\t";
-   cout << operate (n, m);
-   return 0;
+    int a=2, b=3;
+    swap(a, b);
+    cout<<a<<" "<<b;
+    return 0;
 }
