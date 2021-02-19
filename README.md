@@ -184,5 +184,8 @@ In this repository, I am going to share my 100 days of my code track. It will he
 ## Day-13:-
 
 ### Theory:-
-
+* Overview of Object Oriented Programming in C++
+* Charachteristics of an object oriented programming language:-
+  * Class
+  * Object
 ### Code:-
