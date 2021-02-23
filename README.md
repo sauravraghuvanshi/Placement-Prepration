@@ -198,3 +198,9 @@ In this repository, I am going to share my 100 days of my code track. It will he
 ## Day-14:-
 
 ### Theory:-
+* Studied about Stream
+* Types of Stream object:-
+  1. istream
+  2. ostream
+  3. iostream
+  
