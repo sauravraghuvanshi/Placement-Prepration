@@ -207,3 +207,7 @@ In this repository, I am going to share my 100 days of my code track. It will he
 * How buffer effects programming?
 * Why clearing buffer is important
 * How we will clear it
+
+### Code:-
+* 14.1 C++ Code to explain why not clearing the input buffer causes undesired outputs.cpp
+* 14.2 C++ Code to explain how "cin.sync();" discards the input buffer.cpp  
