@@ -203,4 +203,7 @@ In this repository, I am going to share my 100 days of my code track. It will he
   1. istream
   2. ostream
   3. iostream
-  
+* What is buffer?
+* How buffer effects programming?
+* Why clearing buffer is important
+* How we will clear it
