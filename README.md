@@ -194,3 +194,7 @@ In this repository, I am going to share my 100 days of my code track. It will he
   * Inheritance
 
 # Input and output:-
+
+## Day-14:-
+
+### Theory:-
