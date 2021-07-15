@@ -10,4 +10,7 @@ In this repository, I will be sharing my learning approach for Placement.
 ## Module 0: Python Programming
 ### Day-15:-
 * Studied about **keywords** and what all and how many keywards are available in Python
-* Studies about **Identifiers** and rules to write a identifiers.
+* Studied about **Identifiers** and rules to write a identifiers.
+* Studied about Comments, multi-line comments.
+* Python Indentation
+* Python statement, multi-line statement
