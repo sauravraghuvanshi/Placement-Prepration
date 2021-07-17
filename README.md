@@ -14,3 +14,12 @@ In this repository, I will be sharing my learning approach for Placement.
 * Studied about Comments, multi-line comments.
 * Python Indentation
 * Python statement, multi-line statement
+### Day-16:-
+* DocString in python
+* Variables
+* Different ways of assignment
+* **Data Types:-**
+  * Numbers
+  * Boolean
+  * Python Strings
+  * Lists
