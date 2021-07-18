@@ -16,6 +16,7 @@ In this repository, I will be sharing my learning approach for Placement.
 * Python statement, multi-line statement
 1. [**Notes: Keywords and identifiers**](https://github.com/sauravraghuvanshi/Placement-Prepration/blob/main/Module%200%20-%20Python%20Programming/1.Keywords%20and%20identifiers.ipynb)
 2. [**Notes: comments, indentation and statements-checkpoint**](https://github.com/sauravraghuvanshi/Placement-Prepration/blob/main/Module%200%20-%20Python%20Programming/2.comments%2C%20indentation%20and%20statements-checkpoint.ipynb)
+
 ### Day-16:-
 * DocString in python
 * Variables
@@ -25,4 +26,9 @@ In this repository, I will be sharing my learning approach for Placement.
   * Boolean
   * Python Strings
   * Lists
+  * Python Tuple
+  * Python Set
+  * Python Dictionary
+  * Conversion between Datatypes
+  * Conversion of one sequence to another
 1. [**Notes: variable and data type-checkpoint**](https://github.com/sauravraghuvanshi/Placement-Prepration/blob/main/Module%200%20-%20Python%20Programming/3.variable%20and%20data%20type-checkpoint.ipynb)
