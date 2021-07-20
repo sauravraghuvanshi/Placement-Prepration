@@ -34,4 +34,7 @@ In this repository, I will be sharing my learning approach for Placement.
 1. [**Notes: variable and data type-checkpoint**](https://github.com/sauravraghuvanshi/Placement-Prepration/blob/main/Module%200%20-%20Python%20Programming/3.variable%20and%20data%20type-checkpoint.ipynb)
 
 ### Day-17:-
-* 
+* Python Input and Output
+* Output formating
+* Keyword argument to formate the string
+1. [**Notes: Standard Input and Output**](https://github.com/sauravraghuvanshi/Placement-Prepration/blob/main/Module%200%20-%20Python%20Programming/4.Standard%20Input%20and%20Output.ipynb)
