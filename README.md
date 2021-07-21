@@ -38,3 +38,5 @@ In this repository, I will be sharing my learning approach for Placement.
 * Output formating
 * Keyword argument to formate the string
 1. [**Notes: Standard Input and Output**](https://github.com/sauravraghuvanshi/Placement-Prepration/blob/main/Module%200%20-%20Python%20Programming/4.Standard%20Input%20and%20Output.ipynb)
+
+### Day-18:-
