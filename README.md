@@ -50,3 +50,6 @@ In this repository, I will be sharing my learning approach for Placement.
   * Special operators
     * Identity operator
     * Membership operator
+1. [**Notes: Operaors and it's type**](https://github.com/sauravraghuvanshi/Placement-Prepration/blob/main/Module%200%20-%20Python%20Programming/5.operator.ipynb)
+
+### Day-19:-
