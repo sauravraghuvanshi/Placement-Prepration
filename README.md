@@ -40,3 +40,13 @@ In this repository, I will be sharing my learning approach for Placement.
 1. [**Notes: Standard Input and Output**](https://github.com/sauravraghuvanshi/Placement-Prepration/blob/main/Module%200%20-%20Python%20Programming/4.Standard%20Input%20and%20Output.ipynb)
 
 ### Day-18:-
+* What is operator
+* **Types of Operator:-**
+  * Arithmetic operators
+  * Comparison (Relational) operators
+  * Logical (Boolean) operators
+  * Bitwise operators
+  * Assignment operators
+  * Special operators
+    * Identity operator
+    * Membership operator
