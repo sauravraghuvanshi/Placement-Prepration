@@ -58,3 +58,8 @@ In this repository, I will be sharing my learning approach for Placement.
 * If.....else Statement and code for the implementation
 * Nested if Statement and code for the implementation
 1. [**Notes and Code: if-elif-else**](https://github.com/sauravraghuvanshi/Placement-Prepration/blob/main/Module%200%20-%20Python%20Programming/6.if-elif-else.ipynb)
+
+### Day-20:-
+* Python While loop
+* Syntax of python while loop
+* While loop with else
