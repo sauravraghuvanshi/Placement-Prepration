@@ -63,3 +63,4 @@ In this repository, I will be sharing my learning approach for Placement.
 * Python While loop
 * Syntax of python while loop
 * While loop with else
+1. [**Notes and Code: Python While loop**](https://github.com/sauravraghuvanshi/Placement-Prepration/blob/main/Module%200%20-%20Python%20Programming/7.While-loop.ipynb)
