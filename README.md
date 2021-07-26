@@ -81,3 +81,22 @@ In this repository, I will be sharing my learning approach for Placement.
 
 ### Day-21:-
 * List:-
+  * Data Structure
+  * What is list
+  * list creation
+  * list length
+  * list append
+  * list insert
+  * list remove
+  * list append and extend
+  * list delete
+  * list reverse
+  * list sorting
+  * list having multiple having reference
+  * string split to create a list
+  * list indexing
+  * list slicing
+  * list extend using "+"
+  * list count function
+  * list comprehensions
+  * Nested list comprehension
