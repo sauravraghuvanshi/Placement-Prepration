@@ -82,7 +82,7 @@ In this repository, I will be sharing my learning approach for Placement.
 ### Day-21:-
 * List:-
   * Data Structure
-  * What is list
+  * What is list++
   * list creation
   * list length
   * list append
@@ -100,3 +100,5 @@ In this repository, I will be sharing my learning approach for Placement.
   * list count function
   * list comprehensions
   * Nested list comprehension
+
+### Day-22:-
