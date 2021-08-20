@@ -9,7 +9,7 @@ In this repository, I will be sharing my learning approach for Placement.
 
 ## C++ Module and Code(Optional Module(Optional Module)(Day 1 to 14):-
 
-## Module 0: Python Programming
+## Module 1: Python Programming
 
 ### 1. Python Programming:
 
@@ -77,28 +77,18 @@ In this repository, I will be sharing my learning approach for Placement.
 2. [**Notes and Code: Python for loop**](https://github.com/sauravraghuvanshi/Placement-Prepration/blob/main/Module%200%20-%20Python%20Programming/1.%20Python%20Introduction/8.for_loop-checkpoint.ipynb)
 3. [**Notes and Code: Python break and continue**](https://github.com/sauravraghuvanshi/Placement-Prepration/blob/main/Module%200%20-%20Python%20Programming/1.%20Python%20Introduction/9.break_continue-checkpoint.ipynb)
 
-### 2. Python Data Structure
+### 2. Python Data Structure(Day:21-27):-
+[**Folder for all the code and notes**](https://github.com/sauravraghuvanshi/Placement-Prepration/tree/main/Module%201%20-%20Python%20Programming/2.%20Python%20Data%20Structure)
 
-### Day-21:-
-* List:-
-  * Data Structure
-  * What is list++
-  * list creation
-  * list length
-  * list append
-  * list insert
-  * list remove
-  * list append and extend
-  * list delete
-  * list reverse
-  * list sorting
-  * list having multiple having reference
-  * string split to create a list
-  * list indexing
-  * list slicing
-  * list extend using "+"
-  * list count function
-  * list comprehensions
-  * Nested list comprehension
+### 3. Function(Day:28-32):-
+[**Folder for all the code and notes**](https://github.com/sauravraghuvanshi/Placement-Prepration/tree/main/Module%201%20-%20Python%20Programming/3.%20Function)
 
-### Day-22:-
+### 4. Practice and Revision(Day:32-36):-
+[**Folder for all the code and notes**](https://github.com/sauravraghuvanshi/Placement-Prepration/tree/main/Module%201%20-%20Python%20Programming/4.%20Practice%20and%20Revision)
+
+### 5. Python Object Oriented Programming(Day:37-40):-
+[**Folder for all the code and notes**](https://github.com/sauravraghuvanshi/Placement-Prepration/tree/main/Module%201%20-%20Python%20Programming/5.%20Python%20Object%20Oriented%20Programming)
+
+
+
+
